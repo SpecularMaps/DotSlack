@@ -1,4 +1,4 @@
-# DotKiwi.Slack
+# DotSlack
 Slack API Wrapper for Asp.Net Core
 
 #This is very much a work in progress#
